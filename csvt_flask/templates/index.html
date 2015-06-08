@@ -1,0 +1,22 @@
+<title>this is title {{username}}</title>
+<h1>welcome {{username}}</h1>
+{{nav_list[0]}}
+<p></p>
+
+
+{%for item in nav_list%}
+<li><a href="">{{item}}</a></li>
+
+{%endfor%}
+
+{%for key,value in blog.items()%}
+<p>{{key}} => {{value}}</p>
+{%endfor%}
+
+<div>
+<img src="/static/images/1.jpg">
+<img src="/static/images/2.jpg">
+<img src="/static/images/3.jpg">
+<img src="/static/images/4.jpg">
+<img src="/static/images/5.jpg">
+</div>

@@ -1,0 +1,16 @@
+com.rovio.angrybirdstransformers
+com.gamevil.kritikamobile.android.google.global.normal
+com.gamevil.darknessreborn2.android.google.global.normal
+net.wargaming.wot.blitz
+com.com2us.acefishing.normal.freefull.google.global.android.common
+com.rayark.pluto
+com.rayark.Cytus.full
+com.sega.kingdomconquestii
+com.rovio.angrybirdsgo
+com.nekki.shadowfight
+com.ea.game.simcitymobile_row
+com.coffeestainstudios.goatsimulator
+com.vinylab.radiohammer1
+com.ubisoft.assassin.pirates
+jp.kamasu.singekionline
+com.ifreyr.sw2
